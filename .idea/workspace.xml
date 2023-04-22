@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cdff3ec-6d1f-45b3-ab9e-0cc80f4ffaef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2cdff3ec-6d1f-45b3-ab9e-0cc80f4ffaef" name="Changes" comment="added class interface configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configuration/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/configuration/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/ServiceDaoEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/ServiceDaoEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/ServiceDaoJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/ServiceDaoJob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ServiceDaoEmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ServiceDaoEmployeeImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ServiceDaoJobImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ServiceDaoJobImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/ServiceEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ServiceEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/ServiceJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ServiceJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/serviceImpl/ServiceEmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/serviceImpl/ServiceEmployeeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/serviceImpl/ServiceJobImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/serviceImpl/ServiceJobImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +83,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682055441161</updated>
-      <workItem from="1682055446507" duration="3006000" />
+      <workItem from="1682055446507" duration="13490000" />
     </task>
+    <task id="LOCAL-00001" summary="added class interface configuration">
+      <created>1682058527652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682058527654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added class interface configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class interface configuration" />
   </component>
 </project>

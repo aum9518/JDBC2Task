@@ -1,12 +1,10 @@
 package org.example.model;
 
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
+import lombok.*;
 
 @Getter
 @Setter
+@AllArgsConstructor
 @NoArgsConstructor
 @ToString
 public class Employee {
@@ -15,5 +13,13 @@ public class Employee {
     private String lastName;
     private int age;
     private String email;
-    private int jobId;
+    private Long jobId;
+
+    public Employee(String firstName, String lastName, int age, String email, Long jobId) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+        this.email = email;
+        this.jobId = jobId;
+    }
 }
